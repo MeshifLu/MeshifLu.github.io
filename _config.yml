@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Tzu-Chiao's website # the website title (if blank, full name will be used instead)
+title: Tzu-Chiao # the website title (if blank, full name will be used instead)
 first_name: Tzu-Chiao
 middle_name: 
 last_name: Lu
@@ -125,7 +125,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Tzu-Chiao # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: single cell, aging, heterogeneity
 permalink: /blog/:year/:title/
 
 # Pagination
