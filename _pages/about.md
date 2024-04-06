@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Huffington Center on Aging & Department of Molecular and Human Genetics, Baylor College of Medicine, Houston, TX
 
 profile:
   align: middle
